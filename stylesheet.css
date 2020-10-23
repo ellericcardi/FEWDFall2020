@@ -1,0 +1,48 @@
+body {
+    height: 100vh;
+    color: #ffffff;
+    font-family:sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.red {
+    background-color: rgb(255, 89, 94);
+    height: 12.5%;
+    width: 100%;
+}
+.orange {
+    background-color:  rgb(255, 146, 76);
+    height: 12.5%;
+    width: 100%;
+}
+.yellow {
+    background-color: rgb(255, 202, 58);
+    height: 12.5%;
+    width: 100%;
+}
+.green {
+    background-color: rgb(138, 201, 38);
+    height: 12.5%;
+    width: 100%;
+}
+.blue {
+    background-color: rgb(25, 130, 196);
+    height: 12.5%;
+    width: 100%;
+}
+.indigo {
+    background-color: rgb(66, 103, 172);
+    height: 12.5%;
+    width: 100%;
+}
+.violet {
+    background-color: rgb(106, 76, 147);
+    height: 12.5%;
+    width: 100%;
+}
+.pink {
+    background-color: rgb(179, 98, 157);
+    height: 12.5%;
+    width: 100%;
+}
